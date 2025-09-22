@@ -8,9 +8,3 @@ name = input("Whats ur name: ")
 print("Hello " + name)
 
 print("Changed in GitHub")
-print("Change in github #2")
-def a():
-    for a in range(0,10):
-        print(a)
-
-print(a())
