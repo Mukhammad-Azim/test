@@ -6,3 +6,5 @@ print(c)
 
 name = input("Whats ur name: ")
 print("Hello " + name)
+
+print("Changed in GitHub")
